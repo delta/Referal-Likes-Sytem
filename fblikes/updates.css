@@ -1,0 +1,27 @@
+.likers
+{
+    position: relative;
+    width: auto;
+/*    border: 1px solid #000;*/
+    border-radius: 15px;
+    text-align: center;
+    margin-left: 5px;
+
+}
+
+.liker
+{
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    float:left;
+
+}
+
+
+.noupdates
+{
+    position: relative;
+    top: 43%;
+    text-align: center;
+}

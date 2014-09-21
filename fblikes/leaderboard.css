@@ -1,0 +1,68 @@
+.leaderboard
+{
+    margin: 0;
+    height: 100%;
+    list-style: none;
+    font-family: sans-serif;
+    font-size: 13px;
+    text-align: center;
+    position: relative;
+    
+}
+
+.leader
+{
+    margin: 3% ;
+    height: 13%;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 5px;
+    width:25%;
+    float: left;
+    overflow: hidden;
+}
+
+.profilepicleader
+{
+    float: left;
+    height: 80px;
+    width: 80px;
+    border-radius: 35px;
+    position: relative;
+}
+.details
+{
+    position: relative;
+    margin-top: 15px;
+    margin-left: 20px;
+    float: left;
+}
+
+.liker
+{
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
+    
+}
+.likers img
+{
+    height: 35px;
+    width: 35px;
+    
+}
+
+.liker img
+{
+    margin-top:12px;
+    margin-left: 3px;
+    border-radius: 17px;
+}
+.leaderboardcontroller
+{
+    width:100%;
+    text-align:center;
+    background-color: #6f5499;
+}
+

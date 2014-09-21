@@ -1,0 +1,127 @@
+/*----------------------------------------------main css----------------------------------------*/
+body
+{
+    padding: 0;
+    margin: 0;
+    position: relative;
+    height: 100%;
+    color: #6f5499;
+    font-family: sans-serif;
+    
+    
+}
+
+.nav
+{
+
+    font-family: serif;
+    width: 100%;
+    height: 45px;
+    background-color:#6f5499;
+}
+
+.nav img
+
+{
+    height: 30px;
+    width: 30px;
+}
+ul 
+{
+    
+    
+    margin: 0;
+    padding: 0;
+    
+    list-style: none;
+    font-family: sans-serif;
+}
+
+a 
+{
+    color: #ffffff;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+
+.right li
+{
+    margin-top: .8%;
+    float: right;
+    margin-right:2%;
+    
+    
+    
+}
+
+.left li
+{
+    margin-top: 0.8%;
+    float: left;
+    margin-left: 2%;
+}
+
+
+.content
+{
+    width: 100%;
+    height: 90%;
+   
+    
+}
+
+
+/*------------------------------------login page css -------------------------------------------------------------*/
+
+
+.login_message , .dashboard
+{
+    position: relative;
+    margin: auto;
+    top:25%;
+    overflow: hidden;
+    text-align: center;
+    font-size: 25px;
+    vertical-align: middle
+    
+}
+.login
+{
+    height: 60px;
+    width:140px;
+    border: 2px solid #6f5499;
+    border-radius: 10px;
+    color: #6f5499;
+    font-size: 25px
+}
+
+.login:hover
+{
+    background-color: #6f5499;
+    color:#ffffff;
+    border-color: #ffffff;
+}
+
+/*--------------------------------------------------------dashbord css---------------------------------------------------*/
+
+.dashboard
+{
+    top:15%;
+    color:#444444;
+}
+.dashboard a
+{
+    color:#444444;
+/*    font-size: 25px;*/
+}
+
+.profile_pic
+{
+    border: 1px solid #000000;
+    border-radius: 10px;
+    height: 200px;
+    width: 150px;
+}
+
+/*-------------------------------------------------------updates-----------------------------------------------------------*/

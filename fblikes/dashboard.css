@@ -1,0 +1,19 @@
+
+.dashboard
+{
+    top:15%;
+    color:#444444;
+}
+.dashboard a
+{
+    color:#444444;
+/*    font-size: 25px;*/
+}
+
+.profile_pic
+{
+    border: 1px solid #000000;
+    border-radius: 10px;
+    height: 200px;
+    width: 150px;
+}
